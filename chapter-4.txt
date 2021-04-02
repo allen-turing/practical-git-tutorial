@@ -1,1 +1,3 @@
-Chpater 4 - Learning fetch and pull
+Chapter 4 - Learning merge conflict buy manual edit
+
+This is my line
